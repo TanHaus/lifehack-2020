@@ -3,6 +3,8 @@ Code repo for Life Hack 2020
 
 [Presentation Deck](https://docs.google.com/presentation/d/1ZN92emohf4ztEZ8ZlN255g843ueNm2FP89y7uD2o9pk)
 
+[Training and Grad-CAM visualization](https://github.com/TanHaus/lifehack-2020/blob/master/glaucoma_eval.ipynb) 
+
 ## Datasets
 [LifeHack](https://www.kaggle.com/jr2ngb/cataractdataset)
 
